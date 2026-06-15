@@ -1,8 +1,10 @@
 .currency_negative {
 	color:red;
+	text-align:right;
 }
 .currency_positive {
 	color:green;
+	text-align:right;
 }
 
 .currency_negative::after,
